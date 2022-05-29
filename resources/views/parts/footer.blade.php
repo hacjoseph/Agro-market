@@ -6,7 +6,7 @@
                 <div class="col-lg-3 col-md-6">
                     <div class="footer-widget">
                         <div class="footer-logo">
-                            <a href="index.html">
+                            <a href="{{asset('home')}}">
                                 <img src="assets/images/logos/footer-logo.png" alt="Images">
                             </a>
                         </div>
@@ -34,35 +34,17 @@
                         <h3>Services</h3>
                         <ul class="footer-list">
                             <li>
-                                <a href="wordpress-hosting.html" target="_blank">
+                                <a href="{{asset('my-account')}}" target="_blank">
                                     My Account
                                 </a>
                             </li>
+                           
                             <li>
-                                <a href="tracking-order.html" target="_blank">
-                                    Tracking Order
-                                </a>
-                            </li>
-                            <li>
-                                <a href="customer-services.html" target="_blank">
+                                <a href="{{asset('customer-services')}}" target="_blank">
                                     Customer Services
                                 </a>
                             </li>
-                            <li>
-                                <a href="compare.html" target="_blank">
-                                    Compare
-                                </a>
-                            </li>
-                            <li>
-                                <a href="wishlist.html" target="_blank">
-                                    Wishlist
-                                </a>
-                            </li>
-                            <li>
-                                <a href="privacy-policy.html" target="_blank">
-                                    Privacy Policy
-                                </a>
-                            </li>
+
                         </ul>
                     </div>
                 </div>
@@ -71,32 +53,24 @@
                         <h3>Information</h3>
                         <ul class="footer-list">
                             <li>
-                                <a href="index.html" target="_blank">
+                                <a href="{{asset('home')}}" target="_blank">
                                     Home
                                 </a>
                             </li>
                             <li>
-                                <a href="about.html" target="_blank">
+                                <a href="{{asset('about')}}" target="_blank">
                                     About Us
                                 </a>
                             </li>
+ 
                             <li>
-                                <a href="blog-details.html" target="_blank">
-                                    Blog Details
-                                </a>
-                            </li>
-                            <li>
-                                <a href="shop-details.html" target="_blank">
+                                <a href="{{asset('shop-detail')}}" target="_blank">
                                     Shop Details
                                 </a>
                             </li>
+                          
                             <li>
-                                <a href="testimonials.html" target="_blank">
-                                    Testimonials
-                                </a>
-                            </li>
-                            <li>
-                                <a href="team.html" target="_blank">
+                                <a href="{{asset('team')}}" target="_blank">
                                     Team
                                 </a>
                             </li>

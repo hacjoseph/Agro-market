@@ -254,7 +254,7 @@
                         <ul class="product-item-action">
                             <li><a href="#"><i class='bx bx-repost'></i></a></li>
                             <li><a href="wishlist.html"><i class='bx bx-heart'></i></a></li>
-                            <li><a href="cart.html"><i class='bx bx-cart'></i></a></li>
+                            <li><a href="{{asset('cart')}}"><i class='bx bx-cart'></i></a></li>
                         </ul>
                     </div>
                     <div class="content">
@@ -282,7 +282,7 @@
                         <ul class="product-item-action">
                             <li><a href="#"><i class='bx bx-repost'></i></a></li>
                             <li><a href="wishlist.html"><i class='bx bx-heart'></i></a></li>
-                            <li><a href="cart.html"><i class='bx bx-cart'></i></a></li>
+                            <li><a href="{{asset('cart')}}"><i class='bx bx-cart'></i></a></li>
                         </ul>
                     </div>
                     <div class="content">
@@ -310,7 +310,7 @@
                         <ul class="product-item-action">
                             <li><a href="#"><i class='bx bx-repost'></i></a></li>
                             <li><a href="wishlist.html"><i class='bx bx-heart'></i></a></li>
-                            <li><a href="cart.html"><i class='bx bx-cart'></i></a></li>
+                            <li><a href="{{asset('cart')}}"><i class='bx bx-cart'></i></a></li>
                         </ul>
                     </div>
                     <div class="content">
@@ -338,7 +338,7 @@
                         <ul class="product-item-action">
                             <li><a href="#"><i class='bx bx-repost'></i></a></li>
                             <li><a href="wishlist.html"><i class='bx bx-heart'></i></a></li>
-                            <li><a href="cart.html"><i class='bx bx-cart'></i></a></li>
+                            <li><a href="{{asset('cart')}}"><i class='bx bx-cart'></i></a></li>
                         </ul>
                     </div>
                     <div class="content">
