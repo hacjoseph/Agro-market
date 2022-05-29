@@ -47,6 +47,8 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
     <link rel="icon" type="image/png" href="assets/images/favicon.png">
     <title>Organic Food Shop</title>
+
+    <meta name="description" content="site de e-commerce pour les achats de types de produits agricoles naturels et bio" />
 </head>
 
 <body>
