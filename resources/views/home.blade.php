@@ -7,11 +7,11 @@
             <div class="row">
                 <div class="col-lg-8">
                     <div class="banner-item-content">
-                        <span>WELCOME TO OUR SHOP</span>
-                        <h1>Order the Organic Foods Now!</h1>
-                        <p>Lorem ipsum dolor sit amet, consetetur sadipscins elitr, seddiams nonumy eirmod.</p>
-                        <a href="#" class="default-btn btn-bg-one">Order Now</a>
-                        <img src="assets/images/home-one/home-one-img1.png" alt="Banner Images">
+                        <span>Bienvenu sur notre page d'achat de produits bio</span>
+                        <h1>Commadez votre produit bio maintenat!</h1>
+                        <p>Nous avons de bons produits bio et naturels.</p>
+                        <a href="#" class="default-btn btn-bg-one">Commanez maintenant</a>
+                        <img src="assets/images/home-one/home-one-img1.png" alt="huile olive d'atakpame">
                     </div>
                 </div>
                 <div class="col-lg-4">
@@ -41,14 +41,14 @@
     <section class="new-arrival-area pt-100 pb-70">
         <div class="container">
             <div class="section-title text-center">
-                <h2>New Arrivals</h2>
+                <h2>Nouvels arrivages</h2>
             </div>
             <div class="row pt-45">
                 <div class="col-lg-3 col-sm-6">
                     <div class="new-arrival-item">
                         <div class="arrival-img">
                             <a href="{{asset('shop-detail')}}">
-                                <img src="assets/images/new-arrival-img/new-arrival-1.png" alt="Product Images">
+                                <img src="assets/images/new-arrival-img/new-arrival-1.png" alt="Piment de notse">
                             </a>
                             <div class="arrival-item-tag">
                                 <h3>New</h3>
@@ -69,7 +69,7 @@
                     <div class="new-arrival-item">
                         <div class="arrival-img">
                             <a href="{{asset('shop-detail')}}">
-                                <img src="assets/images/new-arrival-img/new-arrival-2.png" alt="Product Images">
+                                <img src="assets/images/new-arrival-img/new-arrival-2.png" alt="crocus">
                             </a>
                             <div class="arrival-item-tag">
                                 <h3>New</h3>
@@ -90,7 +90,7 @@
                     <div class="new-arrival-item">
                         <div class="arrival-img">
                             <a href="{{asset('shop-detail')}}">
-                                <img src="assets/images/new-arrival-img/new-arrival-3.png" alt="Product Images">
+                                <img src="assets/images/new-arrival-img/new-arrival-3.png" alt="raisin noir des montagne akposso">
                             </a>
                             <div class="arrival-item-tag">
                                 <h3>-18%</h3>
@@ -153,7 +153,7 @@
                     <div class="new-arrival-item">
                         <div class="arrival-img">
                             <a href="{{asset('shop-detail')}}">
-                                <img src="assets/images/new-arrival-img/new-arrival-6.png" alt="Product Images">
+                                <img src="assets/images/new-arrival-img/new-arrival-6.png" alt="bananes freches d'atapkame">
                             </a>
                             <ul class="arrival-item-action">
                                 <li><a href="#"><i class='bx bx-repost'></i></a></li>
@@ -162,7 +162,7 @@
                             </ul>
                         </div>
                         <div class="content">
-                            <h3><a href="{{asset('shop-detail')}}">Fresh Banana</a></h3>
+                            <h3><a href="{{asset('shop-detail')}}">Banane frèche d'Atapkame</a></h3>
                             <span>$2.0/Kg <del>$4.0/Kg</del></span>
                         </div>
                     </div>
@@ -217,28 +217,28 @@
     <div class="choose-area pt-100 pb-70">
         <div class="container">
             <div class="section-title text-center">
-                <h2>Why You Choose Us</h2>
+                <h2>Pourquoi vous nous avez choisi ?</h2>
             </div>
             <div class="row pt-45">
                 <div class="col-lg-4 col-sm-6">
                     <div class="choose-card">
                         <i class="flaticon-24-hours"></i>
-                        <h3>24/7 Online Support</h3>
-                        <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod.</p>
+                        <h3>24/7 En line</h3>
+                        <p>Nous travaillons 24/7 pour vous servir.</p>
                     </div>
                 </div>
                 <div class="col-lg-4 col-sm-6">
                     <div class="choose-card">
                         <i class="flaticon-leaf"></i>
-                        <h3>100% Pure Foods</h3>
-                        <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod.</p>
+                        <h3>100% Produits naturels</h3>
+                        <p> Des produits naturels et pour une bonne santé.</p>
                     </div>
                 </div>
                 <div class="col-lg-4 col-sm-6 offset-lg-0 offset-sm-3">
                     <div class="choose-card">
                         <i class="flaticon-service"></i>
-                        <h3>Home Delivery</h3>
-                        <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod.</p>
+                        <h3>Livraison à la maison</h3>
+                        <p>Livraison rapide à lomé et dans les autres villes du Togo.</p>
                     </div>
                 </div>
             </div>
