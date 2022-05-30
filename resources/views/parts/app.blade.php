@@ -46,9 +46,9 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     <link rel="stylesheet" href="assets/css/responsive.css">
 
     <link rel="icon" type="image/png" href="assets/images/favicon.png">
-    <title>achat de produits agricoles bio naturels</title>
+    <title>Agro market pour l'achat de produits agricoles bio naturels à lomé</title>
 
-    <meta name="description" content="site de e-commerce pour les achats de types de produits agricoles naturels et bio" />
+    <meta name="description" content="Agro market est un site de e-commerce pour les achats de produits agricoles naturels et bio à Lomé" />
 </head>
 
 <body>
