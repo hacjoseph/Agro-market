@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://agro-market.herokuapp.com/</loc>
+  <lastmod>2022-06-01T07:52:07+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://agro-market.herokuapp.com/my-account</loc>
+  <lastmod>2022-06-01T07:52:07+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://agro-market.herokuapp.com/login</loc>
+  <lastmod>2022-06-01T07:52:07+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://agro-market.herokuapp.com/about</loc>
+  <lastmod>2022-06-01T07:52:07+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://agro-market.herokuapp.com/shop-detail</loc>
+  <lastmod>2022-06-01T07:52:07+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://agro-market.herokuapp.com/customer-services</loc>
+  <lastmod>2022-06-01T07:52:07+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://agro-market.herokuapp.com/cart</loc>
+  <lastmod>2022-06-01T07:52:07+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://agro-market.herokuapp.com/checkout</loc>
+  <lastmod>2022-06-01T07:52:07+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://agro-market.herokuapp.com/team</loc>
+  <lastmod>2022-06-01T07:52:07+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://agro-market.herokuapp.com/register</loc>
+  <lastmod>2022-06-01T07:52:07+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://agro-market.herokuapp.com/forget-password</loc>
+  <lastmod>2022-06-01T07:52:07+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://agro-market.herokuapp.com/shop-grid</loc>
+  <lastmod>2022-06-01T07:52:07+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://agro-market.herokuapp.com/shop-sidebar</loc>
+  <lastmod>2022-06-01T07:52:07+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://agro-market.herokuapp.com/blog</loc>
+  <lastmod>2022-06-01T07:52:07+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://agro-market.herokuapp.com/contact</loc>
+  <lastmod>2022-06-01T07:52:07+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+
+
+</urlset>
