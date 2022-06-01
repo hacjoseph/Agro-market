@@ -8,7 +8,7 @@
                 <div class="col-lg-8">
                     <div class="banner-item-content">
                         <span>Bienvenu sur notre page d'achat de produits bio</span>
-                        <h1>Commadez votre produit bio maintenat!</h1>
+                        <h2>Commadez votre produit bio maintenat!</h2>
                         <p>Nous avons de bons produits bio et naturels.</p>
                         <a href="#" class="default-btn btn-bg-one">Commanez maintenant</a>
                         <img src="assets/images/home-one/home-one-img1.png" alt="huile olive d'atakpame">

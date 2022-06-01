@@ -63,7 +63,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <div class="d-table">
         <div class="d-table-cell">
             <img src="assets/images/preloder-img.png" alt="Images">
-            <h2>Hilo</h2>
+            <h1>Hilo</h1>
         </div>
     </div>
 </div>
